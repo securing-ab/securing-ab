@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Bloxified
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me: send an email to ab@bloxified.gq
+- 📫 How to reach me: send an email to ab@spikebot.cf
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: am pro
 -->
