@@ -15,7 +15,7 @@
 </p>
 <br>
   
-<h2 align="left">         ~ Other Info ~<h2>
+<h2 align="left">         ~  Other Info  ~<h2>
 
   
 
