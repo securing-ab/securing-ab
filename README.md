@@ -23,5 +23,5 @@
                             )](https://discord.com/users/800717399711023124)
                             
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9eksds8x8x8wi6odwldca8f76&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+  
  ![Ab's github stats](https://github-readme-stats.vercel.app/api?username=securing-ab&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=00000000)
