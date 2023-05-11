@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bloxified
+- 🔭 I own RCD
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me: send an email to ab@spikebot.cf
+- 📫 How to reach me: send an email to ab@rcdofficials.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: am pro
+- 
 -->
 
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
