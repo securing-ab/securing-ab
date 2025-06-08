@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I own RCD
-- 🌱 I’m currently learning Typescript
-- 📫 How to reach me: send an email to ab@rcdofficials.com
+  - 🔭 I own Spike
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: send an email to ab.corp@spikemusic.xyz
 - 😄 Pronouns: he/him
 - 
 -->
