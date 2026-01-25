@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Ab 👋
 
-  - 🔭 I own Spike
+- 🔭 I own Arial
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: send an email to ab.corp@spikemusic.xyz
+- 📫 How to reach me: send an email to yourhappydev@gmail.com
 - 😄 Pronouns: he/him
 - 
 -->
