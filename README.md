@@ -2,7 +2,7 @@
 
 - 🔭 I own Arial
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: send an email to yourhappydev@gmail.com
+- 📫 You can reach me by messaging my Discord
 - 😄 Pronouns: he/him
 - 
 -->
